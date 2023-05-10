@@ -1,4 +1,3 @@
-# TryAI -
 TryAI - Platform to understand the use cases and application of AI across business domains.
 
 AI is transforming the landscape of various industries by providing innovative solutions to complex problems. In healthcare, AI is being used to detect diseases and develop personalized treatment plans. For example, machine learning algorithms are being used to analyze medical imaging and detect abnormalities in X-rays, CT scans, and MRIs. AI-powered chatbots are also being used to provide quick and efficient diagnosis and treatment options to patients.
