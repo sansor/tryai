@@ -15,6 +15,4 @@ Myers reportedly holds Canadian, U.S. and British citizenship.
 
 Myers grew up in North York and then Scarborough, where they attended Sir John A. MacDonald Collegiate Institute and then graduated from Stephen Leacock Collegiate Institute in 1982.
 
-[Link to a page]({{ site.baseurl }}{% link 2016-08-27-example-post-one.md %})
-
 _Originally from [Mike Myers - Wikipedia](https://en.wikipedia.org/wiki/Mike_Myers)_
