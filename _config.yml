@@ -22,6 +22,11 @@ exclude:
 # 2. Installed Gems
 plugins:
 - jekyll-paginate
+- jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
 
 # 3. Gem settings
 paginate: 10 # jekyll-paginate > items per page
