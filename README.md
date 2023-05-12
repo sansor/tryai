@@ -1,13 +1,51 @@
-TryAI - Platform to understand the use cases and application of AI across business domains.
+# Jekyll Theme - Mundana by WowThemes.net
 
-AI is transforming the landscape of various industries by providing innovative solutions to complex problems. In healthcare, AI is being used to detect diseases and develop personalized treatment plans. For example, machine learning algorithms are being used to analyze medical imaging and detect abnormalities in X-rays, CT scans, and MRIs. AI-powered chatbots are also being used to provide quick and efficient diagnosis and treatment options to patients.
+[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/) &nbsp; | &nbsp; 
+[Download](https://github.com/wowthemesnet/mundana-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; 
+[Buy me a coffe](https://www.wowthemes.net/donate/) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/mundana-theme-jekyll/) &nbsp; | &nbsp; 
+[WordPress version](https://www.wowthemes.net/themes/mundana-wordpress/) 
 
-In finance, AI is being used to improve fraud detection, risk management, and customer service. For example, AI algorithms are being used to analyze large amounts of financial data to detect fraudulent transactions and identify potential areas of risk. AI-powered chatbots and voice assistants are also being used to provide customers with personalized financial advice and services.
+![mundana jekyll theme screenshot](assets/images/screenshot.jpg)
 
-In retail, AI is being used to improve customer experiences and increase sales. For example, AI algorithms are being used to analyze customer data to predict their purchasing behavior and provide personalized product recommendations. AI-powered chatbots and virtual assistants are also being used to provide customers with quick and efficient support and assistance.
+### Documentation
 
-In manufacturing, AI is being used to improve efficiency and reduce costs. For example, machine learning algorithms are being used to optimize production processes and identify areas where production can be improved. AI-powered robots are also being used to perform repetitive tasks and reduce the risk of human error.
+[How to install & use](https://bootstrapstarter.com/bootstrap-templates/mundana-theme-jekyll/)
 
-In agriculture, AI is being used to improve crop yields and reduce waste. For example, machine learning algorithms are being used to analyze environmental data to predict weather patterns and identify potential areas of crop damage. AI-powered drones are also being used to monitor crop growth and identify areas where irrigation or pesticide application is needed.
+### Contribute to Mundana repository
 
-In conclusion, AI is transforming various industries by providing innovative solutions to complex problems. With the continued development and implementation of AI, we can expect to see significant advancements in healthcare, finance, retail, manufacturing, agriculture, and many other industries.
+1. In the top-right corner of this page, click **Fork**.
+
+2. Clone a copy of your fork on your local, replacing *YOUR-USERNAME* with your Github username.
+
+   `git clone https://github.com/YOUR-USERNAME/mundana-theme-jekyll.git`
+
+3. **Create a branch**: 
+
+   `git checkout -b <my-new-feature-or-fix>`
+
+4. **Make necessary changes and commit those changes**:
+
+   `git add .`
+
+   `git commit -m "new feature or fix"`
+
+5. **Push changes**, replacing `<add-your-branch-name>` with the name of the branch you created earlier at step #3. :
+
+   `git push origin <add-your-branch-name>`
+
+6. Submit your changes for review. Go to your repository on GitHub, you'll see a **Compare & pull request** button. Click on that button. Now submit the pull request.
+
+That's it! Soon I'll be merging your changes into the master branch of this project. You will get a notification email once the changes have been merged. Thank you for your contribution.
+
+
+### Copyright
+
+Copyright (C) 2019 WowThemes.net.
+
+Theme designed and developed by [Sal](https://www.wowthemes.net), *free* under MIT license. 
+
+<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+
+### Live Demo
+
+[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/)
