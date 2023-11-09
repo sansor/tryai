@@ -1,6 +1,7 @@
 ---
 title: What was Wayne's World?
 category: General
+author: Sanjay
 ---
 
 Wayne's World is a 1992 comedy film directed by Penelope Spheeris and starring Mike Myers as Wayne Campbell and Dana Carvey as Garth Algar. The film was adapted from a sketch of the same name on NBC's Saturday Night Live.
